@@ -17,7 +17,7 @@ This project is a memory game developed using JavaFX, featuring a built-in timer
 
 │   ├── main/
 
-│   │   ├── java/  ← Java StartScreen files and UserService java class
+│   │   ├── java/  ← Java StartScreen.java files and UserService.java class and FileUserService.java class
 
 │   │   └── resources/ 
 
